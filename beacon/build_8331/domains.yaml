@@ -1,0 +1,7 @@
+default: beacon
+build_dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_8331
+domains:
+  - name: beacon
+    build_dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_8331/beacon
+flash_order:
+  - beacon

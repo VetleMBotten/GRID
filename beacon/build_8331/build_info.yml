@@ -1,0 +1,19 @@
+cmake:
+  application:
+    source-dir: C:/ncs/v2.9.2/zephyr/share/sysbuild
+  board:
+    name: nrf52833dk
+    qualifiers: nrf52833
+    revision: 
+  kconfig:
+    files:
+     - C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_8331/_sysbuild/empty.conf
+     - C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_8331/_sysbuild/empty.conf
+    user-files:
+     - C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_8331/_sysbuild/empty.conf
+  sysbuild: true
+version: 0.1.0
+west:
+  command: C:\ncs\toolchains\b620d30767\opt\bin\Scripts\west build -b nrf52833dk_nrf52833 -d build_8331
+  topdir: C:\ncs\v2.9.2
+  version: 1.2.0

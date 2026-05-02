@@ -1,0 +1,5 @@
+west:
+  command: C:\ncs\toolchains\b620d30767\opt\bin\Scripts\west build -b nrf52833dk_nrf52833
+    -d build_8331
+  topdir: C:\ncs\v2.9.2
+  version: 1.2.0

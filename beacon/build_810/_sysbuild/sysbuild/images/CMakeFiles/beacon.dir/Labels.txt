@@ -1,0 +1,13 @@
+# Target labels
+ beacon
+# Source files and their labels
+C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/_sysbuild/sysbuild/images/CMakeFiles/beacon
+C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/_sysbuild/sysbuild/images/CMakeFiles/beacon.rule
+C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/_sysbuild/sysbuild/images/CMakeFiles/beacon-complete.rule
+C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/_sysbuild/sysbuild/images/beacon-prefix/src/beacon-stamp/beacon-build.rule
+C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/_sysbuild/sysbuild/images/beacon-prefix/src/beacon-stamp/beacon-configure.rule
+C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/_sysbuild/sysbuild/images/beacon-prefix/src/beacon-stamp/beacon-download.rule
+C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/_sysbuild/sysbuild/images/beacon-prefix/src/beacon-stamp/beacon-install.rule
+C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/_sysbuild/sysbuild/images/beacon-prefix/src/beacon-stamp/beacon-mkdir.rule
+C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/_sysbuild/sysbuild/images/beacon-prefix/src/beacon-stamp/beacon-patch.rule
+C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/_sysbuild/sysbuild/images/beacon-prefix/src/beacon-stamp/beacon-update.rule

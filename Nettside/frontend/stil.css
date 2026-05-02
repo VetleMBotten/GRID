@@ -1,0 +1,179 @@
+
+    #boks {
+      display:flex;
+      gap:5vw;
+      margin-top: 30px;
+      align-items: flex-start;
+      justify-content: center;
+    }
+
+#søylediagram{
+        
+  background-color:#fff;
+  border-radius: 10px;
+  height: 900px;
+  padding: 2.5vw 10px;
+  width: 40%;
+  text-align: center;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+}
+
+    #søylediagram label {
+      padding: 5px;
+    }
+    
+      #kart
+    {
+        
+        background-color: rgb(255, 255, 255);
+        border-radius: 10px;
+        padding: 2.5vw 10px;
+        position:relative;
+        background-image: url("Kvål.png"); /* bytt til bildet ditt */
+        background-size: cover;            /* fyller hele div-en */
+        background-position: center;       /* sentrer bildet */
+        background-repeat: no-repeat;
+        width: 800px;
+        height: 900px;
+    }
+
+    #konturLayer{
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 5;
+}
+
+#myChart {
+  padding: 0 30px;
+  height: 750px;
+  align-content:space-around;
+}
+
+
+.dot
+{
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%); /* gjør at (x,y) er sentrum av sirkelen */
+}
+.knapp{
+  border-radius: 50px;
+  border: solid;
+  border-color: rgb(11, 198, 219);
+  margin: 10px;
+  width: 250px;
+  height: 40px;
+  background-color: rgb(11, 198, 219);
+}
+.knapp:hover{
+  background-color: blue;
+  border-color: blue;
+  color: white;
+  cursor: pointer;
+}
+.stav
+{
+  background-color: rgb(20, 178, 210);
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  opacity: 0.2;
+  transform: translate(-50%, -50%); /* gjør at (x,y) er sentrum av sirkelen */
+}
+
+
+    /* Antar du allerede har .stav. Dette er bare “gjør den åpenbart spesiell” */
+.sentrumprikk{
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: black;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 7; /* over konturene */
+}
+
+#legend{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(255, 255, 255, 0.85);
+  border: 1px solid #000;
+  border-radius: 6px;
+  padding: 8px 10px;
+  font-family: sans-serif;
+  font-size: 12px;
+  z-index: 20;
+}
+
+.legend-item{
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 4px;
+}
+
+.legend-item:last-child{
+  margin-bottom: 0;
+}
+
+.legend-dot{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.tooltip{
+  position:absolute;
+  bottom:18px;
+  left:50%;
+  transform:translateX(-50%);
+  background:white;
+  border:1px solid black;
+  padding:4px 8px;
+  border-radius:6px;
+  font-size:12px;
+  white-space:nowrap;
+
+  opacity:0;
+  visibility:hidden;
+  transition:0.2s;
+  z-index:30;
+}
+
+.mikro-dot:hover .tooltip{
+  opacity:1;
+  visibility:visible;
+}
+
+/* matcher utseendet i kartet */
+.stav-dot{
+  background: black;
+}
+
+.mikro-dot{
+  background: red;
+}
+.dot:hover{
+  border: 3px solid rgb(228, 221, 183) !important;
+  cursor: pointer;
+}
+
+
+.mikro-dot-gammel{
+  background: yellow;
+}
+

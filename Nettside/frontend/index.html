@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8">
+  <title>Søylediagram</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<link rel="stylesheet" href="stil.css">
+<body style="background-color: #dcedff;">
+    
+
+  <div id="boks">
+    
+    <div id="søylediagram">
+      <label>Dataanalyse</label>
+        <canvas id="myChart"></canvas>
+        <button class="knapp" onclick="switchPosState()">Veksle mellom nåværende og tidligere posisjoner</button>
+        <button class="knapp" onclick="tomtidligereposisjoner()">Tøm tidligere posisjoner</button>
+        <button class="knapp" onclick="downloadJSON()">Last ned data</button>
+    </div>
+
+    <div id="kart">
+      <svg id="konturLayer"></svg>
+  
+      <div id="legend">
+          <div class="legend-item">
+            <span class="legend-dot stav-dot"></span>
+          <span>Mottakernode</span>
+        </div>
+
+          <div class="legend-item">
+            <span class="legend-dot mikro-dot-gammel"></span>
+          <span>Tidligere posisjoner</span>
+        </div>
+      </div>
+    
+    </div>
+    </div>
+  
+<script src="src.js"></script>
+</body>
+</html>

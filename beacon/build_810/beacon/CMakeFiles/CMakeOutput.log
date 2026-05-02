@@ -1,0 +1,413 @@
+The target system is: Generic - 3.7.99 - arm
+The host system is: Windows - 10.0.26200 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ncs/toolchains/b620d30767/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/3.21.0/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ncs/toolchains/b620d30767/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/3.21.0/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-zephyr-eabi-gcc.exe (Zephyr SDK 0.17.0) 12.2.0
+Copyright (C) 2022 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_74f1e && [1/2] Building C object CMakeFiles/cmTC_74f1e.dir/src.c.obj
+[2/2] Linking C executable cmTC_74f1e
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wall_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_8b2ac && [1/2] Building C object CMakeFiles/cmTC_8b2ac.dir/src.c.obj
+[2/2] Linking C executable cmTC_8b2ac
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wformat__Wformat_security_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_1782b && [1/2] Building C object CMakeFiles/cmTC_1782b.dir/src.c.obj
+[2/2] Linking C executable cmTC_1782b
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wformat__Wformat_zero_length_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_c0fff && [1/2] Building C object CMakeFiles/cmTC_c0fff.dir/src.c.obj
+[2/2] Linking C executable cmTC_c0fff
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wdouble_promotion_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_61801 && [1/2] Building C object CMakeFiles/cmTC_61801.dir/src.c.obj
+[2/2] Linking C executable cmTC_61801
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_sign_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_5372f && [1/2] Building C object CMakeFiles/cmTC_5372f.dir/src.c.obj
+[2/2] Linking C executable cmTC_5372f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_arith_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_beab4 && [1/2] Building C object CMakeFiles/cmTC_beab4.dir/src.c.obj
+[2/2] Linking C executable cmTC_beab4
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wexpansion_to_defined_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_6f9db && [1/2] Building C object CMakeFiles/cmTC_6f9db.dir/src.c.obj
+[2/2] Linking C executable cmTC_6f9db
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wlogical_op_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_6bd4e && [1/2] Building C object CMakeFiles/cmTC_6bd4e.dir/src.c.obj
+[2/2] Linking C executable cmTC_6bd4e
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wmissing_field_initializers_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_4f2c8 && [1/2] Building C object CMakeFiles/cmTC_4f2c8.dir/src.c.obj
+[2/2] Linking C executable cmTC_4f2c8
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpacked_bitfield_compat_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_53ea0 && [1/2] Building C object CMakeFiles/cmTC_53ea0.dir/src.c.obj
+[2/2] Linking C executable cmTC_53ea0
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wvla_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_7ef14 && [1/2] Building C object CMakeFiles/cmTC_7ef14.dir/src.c.obj
+[2/2] Linking C executable cmTC_7ef14
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wunused_but_set_variable_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_f6151 && [1/2] Building C object CMakeFiles/cmTC_f6151.dir/src.c.obj
+[2/2] Linking C executable cmTC_f6151
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Werror_implicit_int_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_edeb0 && [1/2] Building C object CMakeFiles/cmTC_edeb0.dir/src.c.obj
+[2/2] Linking C executable cmTC_edeb0
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_mstack_protector_guard_global_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_e0034 && [1/2] Building C object CMakeFiles/cmTC_e0034.dir/src.c.obj
+[2/2] Linking C executable cmTC_e0034
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_freestanding_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_7aeba && [1/2] Building C object CMakeFiles/cmTC_7aeba.dir/src.c.obj
+[2/2] Linking C executable cmTC_7aeba
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_ffreestanding_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_55c1d && [1/2] Building C object CMakeFiles/cmTC_55c1d.dir/src.c.obj
+[2/2] Linking C executable cmTC_55c1d
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_gdwarf_4_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_087c9 && [1/2] Building C object CMakeFiles/cmTC_087c9.dir/src.c.obj
+[2/2] Linking C executable cmTC_087c9
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___gc_sections succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_5374d && [1/2] Building C object CMakeFiles/cmTC_5374d.dir/src.c.obj
+[2/2] Linking C executable cmTC_5374d
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___build_id_none succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_4478e && [1/2] Building C object CMakeFiles/cmTC_4478e.dir/src.c.obj
+[2/2] Linking C executable cmTC_4478e
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__nostdlib succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_746e0 && [1/2] Building C object CMakeFiles/cmTC_746e0.dir/src.c.obj
+[2/2] Linking C executable cmTC_746e0
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__static succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_7e91f && [1/2] Building C object CMakeFiles/cmTC_7e91f.dir/src.c.obj
+[2/2] Linking C executable cmTC_7e91f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl__X succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_1ab94 && [1/2] Building C object CMakeFiles/cmTC_1ab94.dir/src.c.obj
+[2/2] Linking C executable cmTC_1ab94
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl__N succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_873d9 && [1/2] Building C object CMakeFiles/cmTC_873d9.dir/src.c.obj
+[2/2] Linking C executable cmTC_873d9
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___orphan_handling_warn succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_8fb63 && [1/2] Building C object CMakeFiles/cmTC_8fb63.dir/src.c.obj
+[2/2] Linking C executable cmTC_8fb63
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___orphan_handling_error succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_28465 && [1/2] Building C object CMakeFiles/cmTC_28465.dir/src.c.obj
+[2/2] Linking C executable cmTC_28465
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___print_memory_usage succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_4de73 && [1/2] Building C object CMakeFiles/cmTC_4de73.dir/src.c.obj
+[2/2] Linking C executable cmTC_4de73
+Memory region         Used Size  Region Size  %age Used
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___no_relax succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_1d54c && [1/2] Building C object CMakeFiles/cmTC_1d54c.dir/src.c.obj
+[2/2] Linking C executable cmTC_1d54c
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___sort_common_descending succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_a0e1b && [1/2] Building C object CMakeFiles/cmTC_a0e1b.dir/src.c.obj
+[2/2] Linking C executable cmTC_a0e1b
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___sort_section_alignment succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_ef2e9 && [1/2] Building C object CMakeFiles/cmTC_ef2e9.dir/src.c.obj
+[2/2] Linking C executable cmTC_ef2e9
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__pg succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_0f8c9 && [1/2] Building C object CMakeFiles/cmTC_0f8c9.dir/src.c.obj
+[2/2] Linking C executable cmTC_0f8c9
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__mcpu_cortex_m4__mthumb__mabi_aapcs__mfp16_format_ieee__mtp_soft__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_1e6e8 && [1/2] Building C object CMakeFiles/cmTC_1e6e8.dir/src.c.obj
+[2/2] Linking C executable cmTC_1e6e8
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_asynchronous_unwind_tables_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_046eb && [1/2] Building C object CMakeFiles/cmTC_046eb.dir/src.c.obj
+[2/2] Linking C executable cmTC_046eb
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_ftls_model_local_exec_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_62a2a && [1/2] Building C object CMakeFiles/cmTC_62a2a.dir/src.c.obj
+[2/2] Linking C executable cmTC_62a2a
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_reorder_functions_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_3b810 && [1/2] Building C object CMakeFiles/cmTC_3b810.dir/src.c.obj
+[2/2] Linking C executable cmTC_3b810
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check__param_min_pagesize_0_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_51b50 && [1/2] Building C object CMakeFiles/cmTC_51b50.dir/src.c.obj
+[2/2] Linking C executable cmTC_51b50
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_defer_pop_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_01d10 && [1/2] Building C object CMakeFiles/cmTC_01d10.dir/src.c.obj
+[2/2] Linking C executable cmTC_01d10
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__ncs_v2_9_2_zephyr_samples_bluetooth_beacon_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_f8612 && [1/2] Building C object CMakeFiles/cmTC_f8612.dir/src.c.obj
+[2/2] Linking C executable cmTC_f8612
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__ncs_v2_9_2_zephyr_ZEPHYR_BASE_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_1f69e && [1/2] Building C object CMakeFiles/cmTC_1f69e.dir/src.c.obj
+[2/2] Linking C executable cmTC_1f69e
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__ncs_v2_9_2_WEST_TOPDIR_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_fdf53 && [1/2] Building C object CMakeFiles/cmTC_fdf53.dir/src.c.obj
+[2/2] Linking C executable cmTC_fdf53
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_ffunction_sections_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_8c019 && [1/2] Building C object CMakeFiles/cmTC_8c019.dir/src.c.obj
+[2/2] Linking C executable cmTC_8c019
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fdata_sections_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem__c__ncs_toolchains_b620d30767_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd succeeded with the following output:
+Change Dir: C:/ncs/v2.9.2/zephyr/samples/bluetooth/beacon/build_810/beacon/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/b620d30767/opt/bin/ninja.exe cmTC_3a98b && [1/2] Building C object CMakeFiles/cmTC_3a98b.dir/src.c.obj
+[2/2] Linking C executable cmTC_3a98b
+
+
+Source file was:
+int main(void) { return 0; }
