@@ -10,6 +10,8 @@ Overview
 A simple application demonstrating the GAP Broadcaster role functionality by
 advertising an Eddystone URL (the Zephyr website).
 
+Sourcecode is located under the src folder
+
 Requirements
 ************
 
